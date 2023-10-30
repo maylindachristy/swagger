@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   title: DOKUMENTASI API GIS BUATAN MAYLINDA
   description: >-
-    DISINI SEMUAH API MICROSERVICES YANG ADA DI FANCY PEDIA GIS
+    DISINI SEMUAH API MICROSERVICES YANG ADA DI GITHUB MAYLINDA
   termsOfService: https://github.com/jscroot/examples/tree/main/api/swagger
   contact:
     email: maylindachristy@gmail.com
